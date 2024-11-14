@@ -71,7 +71,7 @@ const ProductModal = ({ product, onClose }) => {
     }
 
     // Aquí puedes agregar la lógica de guardar el producto en tu base de datos o en el estado local
-    console.log(product ? 'Producto actualizado' : 'Nuevo producto guardado', newProduct);
+   
   };
 
   return (

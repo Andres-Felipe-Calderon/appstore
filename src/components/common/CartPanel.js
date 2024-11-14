@@ -71,7 +71,7 @@ const CartPanel = ({ onClose }) => {
                 <Button
                     auto
                     onClick={() => {
-                        console.log("Hacer pedido clickeado");
+                      
                         setIsModalVisible(true);  // Muestra el modal cuando se hace clic
                     }}
                     className="w-full bg-green-500 hover:bg-green-600 text-white"

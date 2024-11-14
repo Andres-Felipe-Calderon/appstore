@@ -10,7 +10,7 @@ const ProductCard = ({ product }) => {
   }
 
   const handleAddToCart = () => {
-    console.log("Product added to cart:", product);  // Muestra el formato del producto en la consola
+   
     addToCart(product);
   };
 

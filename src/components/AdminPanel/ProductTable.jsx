@@ -69,7 +69,7 @@ const ProductTable = () => {
     }).then((result) => {
       if (result.isConfirmed) {
         // Aquí debes agregar la lógica para eliminar el producto
-        console.log('Producto eliminado', productId);
+    
         // Por ejemplo, podrías hacer una llamada a tu API o actualizar el estado local
         // Eliminar el producto del estado
         setProducts(prevProducts => prevProducts.filter(product => product.id !== productId));

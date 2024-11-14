@@ -17,7 +17,7 @@ const ProductFormModal = ({ onClose }) => {
   };
 
   const handleSubmit = () => {
-    console.log('Nuevo producto:', product);
+ 
     // Aquí puedes agregar la lógica para guardar el producto
     onClose(); // Cierra el modal después de guardar el producto
   };

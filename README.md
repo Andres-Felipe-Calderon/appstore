@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+## APP-STORE 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Descripción del Proyecto**
+Objetivo: Diseñar e implementar una aplicación frontend que gestione el catálogo de productos y pedidos, con un enfoque en la funcionalidad de la interfaz de usuario, el manejo de datos simulados y la reutilización de componentes. No hay interacción con un backend real, pero se simulan datos para ofrecer una experiencia completa de CRUD (Crear, Leer, Actualizar, Eliminar).
+Este proyecto permite al usuario navegar y seleccionar productos, agregarlos al carrito y realizar un pedido simulado. Los administradores pueden iniciar sesión para acceder a un panel donde gestionan los productos y visualizan los pedidos.
 
-## Available Scripts
+**Tecnologías Utilizadas**
+•	React - Biblioteca principal para la interfaz de usuario.
+•	Tailwind CSS - Para estilos rápidos y personalizados.
+•	NextUI - Para componentes de interfaz de usuario adicionales.
+•	SweetAlert - Para alertas elegantes y diálogos de confirmación.
+•	API Fakestore - Para simular la interacción con datos de productos.
+•	Mock de API - Para simular CRUD completo en productos y pedidos.
 
-In the project directory, you can run:
+**Funcionalidades Principales**
 
-### `npm start`
+Usuarios Generales
+•	Catálogo de Productos: Visualiza una lista de productos con la opción de añadirlos al carrito.
+•	Carrito de Compras: Los productos seleccionados se agregan al carrito y se puede simular un pedido.
+Administradores
+•	Autenticación: Inicia sesión para acceder al panel de administración.
+•	Gestión de Productos: Crear, editar y eliminar productos.
+•	Visualización de Pedidos: Accede a una lista de pedidos realizados por los usuarios.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Credenciales de Inicio de Sesión
+Para acceder al panel de administración, use las siguientes credenciales:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Usuario**: `admin`
+- **Contraseña**: `2024`
 
-### `npm test`
+**Requisitos Previos**
+Asegúrate de tener instalados los siguientes programas:
+•	Node.js: Descargar Node.js
+•	npm: Normalmente viene con Node.js, pero puedes verificar con npm -v.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Configuración y Ejecución**
 
-### `npm run build`
+1.	Clona el repositorio:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+•	git clone https://github.com/tu-usuario/app-store.git
+•	cd app-store
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2.	Instala las dependencias:
+•	npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3.	Ejecuta la aplicación en modo desarrollo:
+•	npm start
+Notas Adicionales
+•	Gestión de Estados: Utiliza hooks de React para manejar los estados de los productos y el carrito.
+•	Simulación de Backend: La aplicación utiliza una API mock de Fakestore para simular las operaciones CRUD.
+•	Autenticación: La funcionalidad de login está simulada para acceder al panel de administración.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

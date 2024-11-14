@@ -11,7 +11,7 @@ const Home = () => {
     const fetchProducts = async () => {
       try {
         const products = await getProducts();
-        console.log(products); // Asegúrate de que se está recibiendo la respuesta correctamente
+
         if (Array.isArray(products)) {
           setProducts(products);
         } else {
