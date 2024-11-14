@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "title": "Mochila Fjallraven - Foldsack No. 1, apta para laptops de 15 pulgadas",
+      "price": 109.95,
+      "description": "La mochila perfecta para el uso diario y caminatas en el bosque. Guarda tu laptop (hasta 15 pulgadas) en el compartimiento acolchado.",
+      "category": "Ropa masculina",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Camiseta Casual Slim Fit para hombres",
+      "price": 22.3,
+      "description": "Estilo ajustado, manga larga contrastada, cuello redondo con tres botones, tela ligera y suave para comodidad en el uso diario.",
+      "category": "Ropa masculina",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Chaqueta de algodón para hombres",
+      "price": 55.99,
+      "description": "Ideal para la primavera, otoño o invierno, adecuada para varias actividades al aire libre. Un excelente regalo para un ser querido.",
+      "category": "Ropa masculina",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pantalón Slim Fit Casual para hombres",
+      "price": 15.99,
+      "description": "El color puede variar ligeramente debido a la pantalla. Se recomienda revisar la información de tallas detallada en la descripción.",
+      "category": "Ropa masculina",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pulsera de Cadena Naga de Oro y Plata para mujeres (Colección Legends de John Hardy)",
+      "price": 695,
+      "description": "Inspirada en el dragón mítico que protege la perla del océano. Puede usarse con el dragón hacia adentro para recibir amor y abundancia o hacia afuera para protección.",
+      "category": "Joyería",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Anillo Micropavé de Oro Sólido para mujeres",
+      "price": 168,
+      "description": "Garantía de satisfacción. Puedes devolver o cambiar cualquier pedido dentro de los 30 días.",
+      "category": "Joyería",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      },
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Anillo de Compromiso de Oro Blanco para mujeres",
+      "price": 9.99,
+      "description": "Anillo de diamante de compromiso clásico para ella. Perfecto para compromisos, bodas, aniversarios o San Valentín.",
+      "category": "Joyería",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      },
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pendientes de acero inoxidable con doble embellecedor de oro rosa para perforación",
+      "price": 10.99,
+      "description": "Pendientes con doble embellecedor de acero inoxidable y revestimiento de oro rosa.",
+      "category": "Joyería",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      },
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Disco Duro Externo WD 2TB Elements Portable con USB 3.0",
+      "price": 64,
+      "description": "Compatible con USB 3.0 y USB 2.0. Ofrece transferencias de datos rápidas y mejora el rendimiento de la PC.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      },
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Disco Duro Interno SSD SanDisk SSD PLUS 1TB",
+      "price": 109,
+      "description": "Mejora la velocidad de arranque, apagado y carga de aplicaciones. Ideal para tareas de PC comunes.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Auriculares Bluetooth Sony WH-1000XM4",
+      "price": 348,
+      "description": "Auriculares con cancelación de ruido de alta calidad, diseño ergonómico, y batería de larga duración.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.7,
+        "count": 1500
+      },
+      "image": "https://fakestoreapi.com/img/71SMqxbS5zL._AC_SY879_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Teclado mecánico para gaming Logitech G Pro X",
+      "price": 129.99,
+      "description": "Teclado mecánico con switches intercambiables, ideal para juegos de alta precisión y rendimiento.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.8,
+        "count": 890
+      },
+      "image": "https://fakestoreapi.com/img/71iHXFMhdHL._AC_SY879_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Smartwatch Samsung Galaxy Watch 5",
+      "price": 299,
+      "description": "Reloj inteligente con múltiples funciones de salud, seguimiento de actividad física, y conectividad con tu teléfono.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.3,
+        "count": 780
+      },
+      "image": "https://fakestoreapi.com/img/81USkMO3nzL._AC_SY879_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Tablet Apple iPad Pro 11-inch",
+      "price": 799,
+      "description": "Tablet de alta resolución con pantalla Liquid Retina, potente procesador y compatibilidad con el Apple Pencil.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.9,
+        "count": 2200
+      },
+      "image": "https://fakestoreapi.com/img/81XdfkKJZoL._AC_SY879_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Cámara Digital Canon EOS Rebel T7",
+      "price": 499.99,
+      "description": "Cámara digital con sensor de 24.1 MP, excelente para fotografía amateur y profesional.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.5,
+        "count": 450
+      },
+      "image": "https://fakestoreapi.com/img/71lKpxYsImL._AC_SY879_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Laptop HP Pavilion 15",
+      "price": 649.99,
+      "description": "Laptop con procesador Intel Core i5, 8GB de RAM y 512GB de almacenamiento SSD.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.4,
+        "count": 610
+      },
+      "image": "https://fakestoreapi.com/img/81YF-o4B3dL._AC_SY879_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Monitor Samsung 24-inch",
+      "price": 159.99,
+      "description": "Monitor Full HD con tecnología de pantalla curva para mayor comodidad y mejor experiencia visual.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.2,
+        "count": 260
+      },
+      "image": "https://fakestoreapi.com/img/81fPZ7SWe-L._AC_SY879_.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Altavoces Bluetooth Bose SoundLink",
+      "price": 129.99,
+      "description": "Altavoces compactos y potentes con tecnología Bluetooth y resistencia al agua para llevarlos a cualquier lugar.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.6,
+        "count": 980
+      },
+      "image": "https://fakestoreapi.com/img/71s7gOdPbKL._AC_SY879_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Proyector Epson Home Cinema 2150",
+      "price": 799.99,
+      "description": "Proyector Full HD con conectividad inalámbrica, ideal para cine en casa y entretenimiento.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.8,
+        "count": 240
+      },
+      "image": "https://fakestoreapi.com/img/71XfdGU59LL._AC_SY879_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Auriculares Sony WH-1000XM5 con cancelación de ruido",
+      "price": 348,
+      "description": "Los mejores auriculares de Sony con cancelación de ruido activa, calidad de sonido excepcional y comodidad durante todo el día.",
+      "category": "Electrónica",
+      "rating": {
+        "rate": 4.9,
+        "count": 1500
+      },
+      "image": "https://fakestoreapi.com/img/81GIEJ6kXxL._AC_SY879_.jpg"
+    }
+  ]
+  
